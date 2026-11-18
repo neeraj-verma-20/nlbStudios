@@ -26,7 +26,7 @@ export const ContactSection: React.FC = () => {
     <section id="contact" className="w-full py-20 md:py-32 bg-[#FAF9F6] border-b border-[#E5E4E0]">
       <div className="max-w-7xl mx-auto px-6 lg:px-12">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16">
-          
+
           {/* Left Column: Direct Contact Info */}
           <div className="lg:col-span-5 flex flex-col justify-between">
             <div>
@@ -44,7 +44,7 @@ export const ContactSection: React.FC = () => {
             {/* Touchpoint Placeholders */}
             <div className="space-y-6 border-t border-[#E5E4E0] pt-8">
               <a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/918770326893"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 text-[#0A0A0C] hover:text-[#666663] transition-colors group"
