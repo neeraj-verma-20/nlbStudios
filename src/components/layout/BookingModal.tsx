@@ -94,7 +94,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({ isOpen, onClose }) =
                 required
                 value={formData.phone}
                 onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                placeholder="+91 98765 43210"
+                placeholder="+91 87703 26893"
                 className="w-full bg-studio-surface border border-studio-border px-4 py-3 text-studio-text focus:outline-none focus:border-studio-accent text-sm"
               />
             </div>
