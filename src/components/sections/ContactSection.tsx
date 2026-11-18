@@ -44,7 +44,7 @@ export const ContactSection: React.FC = () => {
             {/* Touchpoint Placeholders */}
             <div className="space-y-6 border-t border-[#E5E4E0] pt-8">
               <a
-                href="https://wa.me/918770326893"
+                href="https://wa.me/918770326893?text=Hi"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 text-[#0A0A0C] hover:text-[#666663] transition-colors group"
