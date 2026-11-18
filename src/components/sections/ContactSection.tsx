@@ -54,7 +54,7 @@ export const ContactSection: React.FC = () => {
                 </div>
                 <div>
                   <div className="text-xs font-mono text-[#666663] uppercase">WhatsApp</div>
-                  <div className="text-sm font-semibold">+91 98765 43210</div>
+                  <div className="text-sm font-semibold">+91 87703 26893</div>
                 </div>
               </a>
 
